@@ -60,3 +60,4 @@ jobs:
         run: |
           git merge origin/output --allow-unrelated-histories
           git push origin main
+          git push origin --delete output

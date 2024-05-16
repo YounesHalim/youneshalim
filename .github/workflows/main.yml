@@ -51,6 +51,7 @@ jobs:
             
       - name: Merge output to main
         run: |
+            git checkout output
             git checkout main
             git merge output
-            git push
+            git push origin main

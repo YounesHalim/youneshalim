@@ -58,8 +58,8 @@ jobs:
 
       - name: Merge feature-branch into main
         run: |
-          git merge origin/output --allow-unrelated-histories
-          git push origin main
+          git merge --strategy-option=theirs origin/output --allow-unrelated-histories
+          git push --force-with-lease origin main
           git push origin --delete output
   
       

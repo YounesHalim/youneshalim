@@ -24,7 +24,7 @@ I am a full stack software developer from Montreal, Canada. I love learning new 
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>

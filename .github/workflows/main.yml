@@ -58,18 +58,8 @@ jobs:
 
       - name: Merge feature-branch into main
         run: |
-          git merge origin/feature-branch --allow-unrelated-histories || echo "Merge conflict occurred"
-  
-      - name: Resolve merge conflicts
-        run: |
-          git checkout --theirs grid-snake-dark.svg grid-snake.svg || true
-          git add grid-snake-dark.svg grid-snake.svg
-          git merge --continue || true
-
-      - name: Push changes to main
-        run: git push origin main
-
-      - name: delete output branch
-        run : git push origin --delete output
+          git merge origin/output --allow-unrelated-histories
+          git push origin main
+          git push origin --delete output
   
       

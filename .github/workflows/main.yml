@@ -42,13 +42,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Checkout output
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      - run: |
-            git checkout main
-            git merge output
-            git push
         

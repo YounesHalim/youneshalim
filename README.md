@@ -1,11 +1,11 @@
-# 💫 About Me:
-I am a full stack software developer from Montreal, Canada. I love learning new technologies and building projects.
+# About Me:
+I'm Younes, Fullstack software developer from Canada, Montreal.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youneshalim) 
 
-# 💻 Tech Stack:
+# 💻 Things I code with:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)

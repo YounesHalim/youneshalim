@@ -5,7 +5,7 @@ I'm Younes, Fullstack software developer from Canada, Montreal.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youneshalim) 
 
-# 💻 Things I code with:
+# 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -27,9 +27,11 @@ I'm Younes, Fullstack software developer from Canada, Montreal.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+<!---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+-->
+
